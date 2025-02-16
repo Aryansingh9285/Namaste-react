@@ -53,3 +53,19 @@ padding: 10px;
     margin: 10px;
     cursor: pointer;
 }
+
+.shimmer-container{
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-card{
+    margin : 20px;
+    width : 200px;
+    height: 400px;
+    background-color: rgb(202, 202, 202);
+}
+.filter{
+ display: flex;
+}
